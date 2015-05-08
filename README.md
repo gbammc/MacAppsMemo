@@ -33,6 +33,7 @@
 * [欧路](https://itunes.apple.com/sg/app/eudic-ou-lu-ci-dian-mian-fei-ban/id434350458?mt=12)
 * [The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
+* [CheatSheet](http://www.grandtotal.biz/CheatSheet/)
 
 ## Social
 
