@@ -34,6 +34,7 @@
 * [The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12&ls=1)
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 * [CheatSheet](http://www.grandtotal.biz/CheatSheet/)
+* [CleanMyMac3](http://macpaw.com/cleanmymac)
 
 ## Social
 
